@@ -1,0 +1,17 @@
+{
+  "name": "persianslug",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mohammadreza Ghorbani <isthereanybody@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
