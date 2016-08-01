@@ -1,7 +1,7 @@
 {
   "name": "persianslug",
-  "description": "",
-  "main": "index.js",
+  "description": "Create slug url with support for persian characters",
+  "main": "src/persianslug.js",
   "authors": [
     "Mohammadreza Ghorbani <isthereanybody@gmail.com>"
   ],
