@@ -6,7 +6,7 @@
       "name": "mohammadreza ghorbani"
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slugify persian text into URL",
   "main": "js/persianslug.js",
   "scripts": {
